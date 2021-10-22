@@ -15,8 +15,11 @@ Para usar este projeto, forneça uma url do filme disponível nos streamings Loo
 > python looke_cine.py https://www.looke.com.br/filmes/renascida-das-trevas srt
 Renascida das Trevas.srt - successfully
 ```
-## Output:
+## Saída:
 [Renascida das Trevas.srt](https://gist.github.com/MateusTars/8b63d8ad71514aad6edaf5572e978241)
+
+## Prova:
+[Vídeo](https://i.imgur.com/3RMuzGf.mp4)
 
 ## Observação: 
 
