@@ -1,5 +1,5 @@
 # looke_cine
-Ferramenta desenvolvida com Python, para baixar(gratuitamente) legendas de filmes(incluindo os pagos) das plataformas de streamings Looke e Cinema Virtual.
+Ferramenta desenvolvida com Python, para baixar(gratuitamente) legendas de filmes(incluindo os pagos) das plataformas de streamings [Looke](https://www.looke.com.br) e [Cinema Virtual](https://www.cinemavirtual.com.br).
 
 ## Instalação:
 
