@@ -1,3 +1,13 @@
+# Descontinuado
+
+Em algum momento de 2024 o site Looke fez algumas mudanças que fizeram com que essa ferramenta deixasse de funcionar e sem uma solução com base no código inicial o repositório será arquivado.
+
+Sobre o site Cinema Virtual ele foi descontinuado e não está mais disponível.
+
+Como alternativa para o Looke resolvi fazer uma abordagem mais ampla sobre ele no Android em um novo repositório chamado [pylooke](https://github.com/MateusTars/pylooke) que contém uma cli com um comando chamado `subrip` para baixar legenda.
+
+* * *
+
 # looke_cine
 Ferramenta desenvolvida com Python, para baixar(gratuitamente) legendas de filmes(incluindo os pagos) das plataformas de streamings [Looke](https://www.looke.com.br) e [Cinema Virtual](https://www.cinemavirtual.com.br).
 
